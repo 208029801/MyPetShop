@@ -1,0 +1,85 @@
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll.config
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.pdb
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.dll
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.xml
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csprojAssemblyReference.cache
+F:\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CoreCompileInputs.cache
+F:\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CopyComplete
+F:\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.dll
+F:\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.pdb
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.pdb
+F:\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll.config
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll.config
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.pdb
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.pdb
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll.config
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.xml
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.AssemblyReference.cache
+D:\ASPNET\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CoreCompileInputs.cache
+D:\ASPNET\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CopyComplete
+D:\ASPNET\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.dll
+D:\ASPNET\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.pdb
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll.config
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.pdb
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.pdb
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll.config
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.AssemblyReference.cache
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CopyComplete
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.dll
+C:\Users\jsj\Documents\Tencent Files\5687776\FileRecv\MobileFile\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.pdb
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll.config
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.pdb
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.pdb
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll.config
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.AssemblyReference.cache
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CopyComplete
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.dll
+C:\Users\yexia\Desktop\MyPetShop2021\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.pdb
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll.config
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.BLL.pdb
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.pdb
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\MyPetShop.DAL.dll.config
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.xml
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.AssemblyReference.cache
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CoreCompileInputs.cache
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.csproj.CopyComplete
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.dll
+D:\重邮相关资料\电商综合实训代码\MyPetShop\MyPetShop.BLL\obj\Debug\MyPetShop.BLL.pdb
